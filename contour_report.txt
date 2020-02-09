@@ -1,0 +1,448 @@
+Script run: 2019-06-06 20:20:31
+
+1:
+Dice: 0.93
+Hausdorff: 3.61
+
+2:
+Dice: 0.87
+Hausdorff: 11.18
+
+3:
+Dice: 0.82
+Hausdorff: 5.00
+
+4:
+Dice: 0.95
+Hausdorff: 7.07
+
+5:
+Dice: 0.85
+Hausdorff: 6.86
+
+6:
+Dice: 0.24
+Hausdorff: 15.00 
+
+7:
+Dice: 0.92
+Hausdorff: 7.35
+
+8:
+Dice: 0.95
+Hausdorff: 6.32 
+
+9:
+Dice: 0.74
+Hausdorff: 10.00
+
+10:
+Dice: 0.90 
+Hausdorff: 5.68
+
+11:
+Dice: 0.54
+Hausdorff: 12.04
+
+12:
+Dice: 0.91
+Hausdorff: 9.49
+
+13:
+Dice: 0.92
+Hausdorff: 8.06
+
+14:
+Dice: 0.89
+Hausdorff: 6.63
+
+15:
+Dice: 0.81
+Hausdorff: 6.78 
+
+16:
+Dice: 0.81
+Hausdorff: 14.97
+
+17:
+Dice: 0.64
+Hausdorff: 13.56 
+
+18:
+Dice: 0.92
+Hausdorff: 4.24 
+
+19:
+Dice: 0.57
+Hausdorff: 15.78
+
+20:
+Dice: 0.69
+Hausdorff: 10.34
+
+21:
+Dice: 0.96
+Hausdorff: 6.32
+
+22:
+Dice: 0.86
+Hausdorff: 6.08
+
+23:
+Dice: 0.92
+Hausdorff: 4.00
+
+24:
+Dice: 0.85
+Hausdorff: 4.90
+
+25:
+Dice: 0.72
+Hausdorff: 5.58
+
+26:
+Dice: 0.85
+Hausdorff: 11.62 
+
+27:
+Dice: 0.74
+Hausdorff: 12.49
+
+28:
+Dice: 0.71
+Hausdorff: 14.49
+
+29:
+Dice: 0.77
+Hausdorff: 10.86
+
+30:
+Dice: 0.90
+Hausdorff: 11.62
+
+31:
+Dice: 0.36
+Hausdorff: 16.31
+
+32:
+Dice: 0.63
+Hausdorff: 14.83
+
+33:
+Dice: 0.42
+Hausdorff: 20.05
+
+34:
+Dice: 0.83
+Hausdorff: 10.91
+
+35:
+Dice: 0.70
+Hausdorff: 8.60
+
+36:
+Dice: 0.90
+Hausdorff: 6.08
+
+37:
+Dice: 0.57
+Hausdorff: 11.58
+
+38:
+Dice: 0.73
+Hausdorff: 21.23
+
+39:
+Dice: 0.88
+Hausdorff: 7.48
+
+40:
+Dice: 0.86
+Hausdorff: 5.48
+
+41:
+Dice: 0.70
+Hausdorff: 11.66
+
+42:
+Dice: 0.84
+Hausdorff: 11.31
+
+43:
+Dice: 0.82
+Hausdorff: 11.31
+
+44:
+Dice: 0.94
+Hausdorff: 8.06
+
+45:
+Dice: 0.96
+Hausdorff: 6.16
+
+46:
+Dice: 0.92
+Hausdorff: 7.35
+
+47:
+Dice: 0.87
+Hausdorff: 12.57
+
+48:
+Dice: 0.92
+Hausdorff: 5.83
+
+49:
+Dice: 0.89
+Hausdorff: 11.22
+
+50:
+Dice: 0.86
+Hausdorff: 10.15
+
+51:
+Dice: 0.88
+Hausdorff: 17.00
+
+52:
+Dice: 0.93
+Hausdorff: 11.70
+
+53:
+Dice: 0.95
+Hausdorff: 8.00
+
+54:
+Dice: 0.88
+Hausdorff: 9.00
+
+55:
+Dice: 0.91
+Hausdorff: 7.42
+
+56:
+Dice: 0.96
+Hausdorff: 5.39
+
+57:
+Dice: 0.68
+Hausdorff: 15.81  
+
+58:
+Dice: 0.89
+Hausdorff: 14.28
+
+59:
+Dice: 0.86
+Hausdorff: 10.39
+
+60:
+Dice: 0.81
+Hausdorff: 12.00
+
+61:
+Dice: 0.84
+Hausdorff: 10.05
+
+62:
+Dice: 0.77
+Hausdorff: 13.38
+
+63:
+Dice: 0.88
+Hausdorff: 11.14
+
+64:
+Dice: 0.85
+Hausdorff: 9.43
+
+65:
+Dice: 0.81
+Hausdorff: 11.18
+
+66:
+Dice: 0.86
+Hausdorff: 12.12
+
+67:
+Dice: 0.90
+Hausdorff: 9.43
+
+68:
+Dice: 0.88
+Hausdorff: 9.49
+
+69:
+Dice: 0.86
+Hausdorff: 7.28
+
+70:
+Dice: 0.53
+Hausdorff: 13.03
+
+71:
+Dice: 0.95
+Hausdorff: 6.16
+
+72:
+Dice: 0.89
+Hausdorff: 11.09
+
+73:
+Dice: 0.79
+Hausdorff: 21.52
+
+74:
+Dice: 0.70
+Hausdorff: 14.42
+
+75:
+Dice: 0.72
+Hausdorff: 12.00 
+
+76:
+Dice: 0.96
+Hausdorff: 8.54
+
+77:
+Dice: 0.77
+Hausdorff: 14.87
+
+78:
+Dice: 0.83
+Hausdorff: 13.96
+
+79:
+Dice: 0.91
+Hausdorff: 10.95
+
+80:
+Dice: 0.90
+Hausdorff: 9.80
+
+81:
+Dice: 0.67
+Hausdorff: 16.52
+
+82:
+Dice: 0.61
+Hausdorff: 13.82
+
+83:
+Dice: 0.92
+Hausdorff: 5.57
+
+84:
+Dice: 0.73
+Hausdorff: 14.63
+
+85:
+Dice: 0.75
+Hausdorff: 16.70
+
+86:
+Dice: 0.76
+Hausdorff: 12.00
+
+87:
+Dice: 0.94
+Hausdorff: 8.12
+
+88:
+Dice: 0.96
+Hausdorff: 7.28
+
+89:
+Dice: 0.85
+Hausdorff: 14.42
+
+90:
+Dice: 0.86
+Hausdorff: 12.17
+
+91:
+Dice: 0.82
+Hausdorff: 12.85
+
+92:
+Dice: 0.71
+Hausdorff: 11.70
+
+93:
+Dice: 0.68
+Hausdorff: 11.92
+
+94:
+Dice: 0.85
+Hausdorff: 10.95
+
+95:
+Dice: 0.89
+Hausdorff: 12.88 
+
+96:
+Dice: 0.83
+Hausdorff: 10.91
+
+97:
+Dice: 0.81
+Hausdorff: 12.73
+
+98:
+Dice: 0.81
+Hausdorff: 6.32
+
+99:
+Dice: 0.90
+Hausdorff: 5.20
+
+100:
+Dice: 0.87
+Hausdorff: 4.00
+
+101: 
+Dice: 0.91
+Hausdorff: 5.60
+
+102:
+Dice: 0.84
+Hausdorff: 5.92
+
+103:
+Dice: 0.86
+Hausdorff: 3.87
+
+104:
+Dice: 0.90
+Hausdorff: 4.12
+
+105:
+Dice: 0.96
+Hausdorff: 5.39
+
+106:
+Dice: 0.92
+Hausdorff: 3.61
+
+107:
+Dice: 0.92
+Hausdorff: 3.00
+
+108:
+Dice: 0.82
+Hausdorff: 4.47
+
+109:
+Dice: 0.77
+Hausdorff: 12.96
+
+DICE:
+MEAN: 0.82
+STD DEV: 0.13
+
+HAUSDORFF:
+MEAN: 10.06
+STD DEV: 4.02
+
+
+
